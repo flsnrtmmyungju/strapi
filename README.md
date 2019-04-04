@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>We're hiring!</strong> Located in Paris 🇫🇷 and dreadfming of being full-time on Strapi?
+  <strong>We're hiring!</strong> Lod of being full-time on Strapi?
   <a href="https://strapi.io/company#looking-for-talents">Join us</a>!
 </p>
 
